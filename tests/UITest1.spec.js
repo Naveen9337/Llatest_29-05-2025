@@ -1,5 +1,5 @@
 import {test,expect} from '@playwright/test';
-import { BasePage } from '../src/pom/BasePage';
+
 
 //Browser(Fixture) - glabally available to each and every playwright test
 test('Browser context declaration first Test',async ({browser})=>{

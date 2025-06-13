@@ -1,5 +1,6 @@
 import {test,expect} from '@playwright/test';
-import { BasePage } from '../src/pom/BasePage';
+console.log('Test for Git 1');
+console.log('Test for Git 1');
 
 //Browser(Fixture) - glabally available to each and every playwright test
 test('Browser context declaration first Test',async ({browser})=>{

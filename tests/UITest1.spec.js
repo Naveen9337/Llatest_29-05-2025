@@ -1,6 +1,6 @@
 import {test,expect} from '@playwright/test';
-console.log('Test for Git 1');
-console.log('Test for Git 2');
+console.log('This is new addition1');
+console.log("This is new addition2");
 
 //Browser(Fixture) - glabally available to each and every playwright test
 test('Browser context declaration first Test',async ({browser})=>{

@@ -2,6 +2,7 @@ import {test,expect} from '@playwright/test';
 console.log('This is new addition1');
 console.log("This is new addition2");
 
+
 //Browser(Fixture) - glabally available to each and every playwright test
 test('Browser context declaration first Test',async ({browser})=>{
      //const basepage = new BasePage(page)

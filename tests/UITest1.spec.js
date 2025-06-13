@@ -5,6 +5,7 @@ console.log('This is change by GitPlaywright');
 console.log('This is change by GitPlaywright');
 console.log('This is change by GitPlaywright');
 console.log('This is change by GitPlaywright');
+console.log('New Changes in GitPlaywright');
 
 //Browser(Fixture) - glabally available to each and every playwright test
 test('Browser context declaration first Test',async ({browser})=>{
